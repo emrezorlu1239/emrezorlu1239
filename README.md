@@ -16,3 +16,7 @@
   &nbsp; · &nbsp;
   <a href="https://huggingface.co/Zorlu5454">Hugging Face</a>
 </p>
+
+<p align="center">
+  <img src="./assets/contribution-sea.svg" width="100%" alt="Contribution Sea — a pirate ship explores islands formed by my real GitHub contributions. Updated daily." />
+</p>
