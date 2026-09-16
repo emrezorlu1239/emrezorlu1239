@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./voyage.gif" width="100%" alt="Emre Zorlu — Luffy using a laptop at the bow of a little pirate ship sailing across a starry sea. Curiosity sets the course." />
+  <img src="./voyage.gif" width="100%" alt="Emre Zorlu — Luffy using a laptop on the deck of a little pirate ship sailing across a starry sea. Curiosity sets the course." />
 </p>
 
 <h3 align="center">Hey, I'm Emre. Welcome aboard! ⚓</h3>
