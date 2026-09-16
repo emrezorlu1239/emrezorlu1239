@@ -114,7 +114,8 @@ def render(calendar, login):
  <path d="M1 -32 L14 -30 L9 -26 L1 -27Z" fill="#bba1e3"><animate attributeName="d" values="M1 -32 L14 -30 L9 -26 L1 -27Z;M1 -32 L14 -34 L11 -28 L1 -27Z;M1 -32 L14 -30 L9 -26 L1 -27Z" dur="1.2s" repeatCount="indefinite"/></path>
  <circle cx="19" cy="2" r="5" fill="#fae6c7" stroke="#695269"/>
  <circle cx="21" cy="1" r=".8" fill="#35283e"/>
- <g transform="translate(-15 5) scale(.6)">
+ <g transform="translate(-15 7) scale(.55 .45)">
+ <path d="M16 0 L24 1 L19 4 L14 2" fill="none" stroke="#466eaa" stroke-width="3"/>
  <path d="M14 -7 l2 8 h6 l-3 -8Z" fill="#e45455"/>
  <circle cx="17" cy="-12" r="4" fill="#f4c39b"/>
  <ellipse cx="17" cy="-15" rx="6" ry="1.5" fill="#ecc36d"/>
