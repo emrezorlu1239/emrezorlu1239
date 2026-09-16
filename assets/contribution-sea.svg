@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="342" viewBox="0 0 1000 342" role="img" aria-labelledby="title desc">
 <title id="title">emrezorlu1239 — Contribution Sea</title>
-<desc id="desc">238 actual GitHub contributions, 2025-09-14 to 2026-09-16. Each island is a day; brighter islands mean more contributions. A pirate ship visits each active week's busiest day. Decorative foam and treasure sparkles do not represent additional contributions.</desc>
+<desc id="desc">240 actual GitHub contributions, 2025-09-14 to 2026-09-16. Each island is a day; brighter islands mean more contributions. A pirate ship visits each active week's busiest day. Decorative foam and treasure sparkles do not represent additional contributions.</desc>
 <defs>
  <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#0c1528"/><stop offset="1" stop-color="#152b3d"/></linearGradient>
  <radialGradient id="glow"><stop stop-color="#f8db92" stop-opacity=".65"/><stop offset="1" stop-color="#f8db92" stop-opacity="0"/></radialGradient>
@@ -10,7 +10,7 @@
 <g font-family="Segoe UI,DejaVu Sans,sans-serif">
  <text x="44" y="39" fill="#b5a1dc" font-size="11" font-weight="700" letter-spacing="3">THE GRAND LINE / CONTRIBUTION SEA</text>
  <text x="43" y="68" fill="#eef0fa" font-size="22" font-weight="600">Every contribution, a new discovery.</text>
- <text x="951" y="40" text-anchor="end" fill="#f2d28c" font-size="21" font-weight="700">238</text>
+ <text x="951" y="40" text-anchor="end" fill="#f2d28c" font-size="21" font-weight="700">240</text>
  <text x="951" y="61" text-anchor="end" fill="#90a9bb" font-size="11">contributions</text>
  <path d="M44 83 H956" stroke="#283c51"/>
 
@@ -1141,8 +1141,9 @@
 <g><title>2026-09-15: 2 contributions</title>
 <rect x="911.30" y="157" width="13" height="14" rx="4" fill="#286b72" stroke="#477e80" stroke-width=".7"/>
 </g>
-<g><title>2026-09-16: 4 contributions</title>
-<rect x="911.30" y="179" width="13" height="14" rx="4" fill="#32958f" stroke="#477e80" stroke-width=".7"/>
+<g><title>2026-09-16: 6 contributions</title>
+<rect x="911.30" y="179" width="13" height="14" rx="4" fill="#57c8ad" stroke="#477e80" stroke-width=".7"/>
+<path d="M914.80 187 q3 -5 6 0" fill="none" stroke="#d6edc9" stroke-width="1"/>
 </g>
 <text x="39" y="145" fill="#6f899d" font-size="9">M</text>
 <text x="39" y="189" fill="#6f899d" font-size="9">W</text>
@@ -1196,7 +1197,8 @@
  <path d="M1 -32 L14 -30 L9 -26 L1 -27Z" fill="#bba1e3"><animate attributeName="d" values="M1 -32 L14 -30 L9 -26 L1 -27Z;M1 -32 L14 -34 L11 -28 L1 -27Z;M1 -32 L14 -30 L9 -26 L1 -27Z" dur="1.2s" repeatCount="indefinite"/></path>
  <circle cx="19" cy="2" r="5" fill="#fae6c7" stroke="#695269"/>
  <circle cx="21" cy="1" r=".8" fill="#35283e"/>
- <g transform="translate(-15 5) scale(.6)">
+ <g transform="translate(-15 7) scale(.55 .45)">
+ <path d="M16 0 L24 1 L19 4 L14 2" fill="none" stroke="#466eaa" stroke-width="3"/>
  <path d="M14 -7 l2 8 h6 l-3 -8Z" fill="#e45455"/>
  <circle cx="17" cy="-12" r="4" fill="#f4c39b"/>
  <ellipse cx="17" cy="-15" rx="6" ry="1.5" fill="#ecc36d"/>
