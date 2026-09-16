@@ -114,10 +114,17 @@ def render(calendar, login):
  <path d="M1 -32 L14 -30 L9 -26 L1 -27Z" fill="#bba1e3"><animate attributeName="d" values="M1 -32 L14 -30 L9 -26 L1 -27Z;M1 -32 L14 -34 L11 -28 L1 -27Z;M1 -32 L14 -30 L9 -26 L1 -27Z" dur="1.2s" repeatCount="indefinite"/></path>
  <circle cx="19" cy="2" r="5" fill="#fae6c7" stroke="#695269"/>
  <circle cx="21" cy="1" r=".8" fill="#35283e"/>
+ <path d="M14 -7 l2 8 h6 l-3 -8Z" fill="#e45455"/>
+ <circle cx="17" cy="-12" r="4" fill="#f4c39b"/>
+ <ellipse cx="17" cy="-15" rx="6" ry="1.5" fill="#ecc36d"/>
+ <path d="M13 -16 Q17 -23 21 -16Z" fill="#ecc36d"/>
+ <path d="M13 -16 H21" stroke="#df5556" stroke-width="1"/>
+ <path d="M21 -2 H28 L30 -9 H23Z" fill="#66bccc" stroke="#253f57" stroke-width=".8"/>
+ <path d="M18 -5 L23 -3" stroke="#f4c39b" stroke-width="2"><animate attributeName="d" values="M18 -5 L23 -3;M18 -5 L23 -4;M18 -5 L23 -3" dur=".5s" repeatCount="indefinite"/></path>
 </g></g>
 <path d="M44 280 H956" stroke="#283c51"/>
 <text x="44" y="306" fill="#a0b7c5" font-size="11">{start} — {end}</text>
-<text x="44" y="325" fill="#738fa2" font-size="9">REAL GITHUB ACTIVITY · REFRESHED DAILY</text>
+<text x="44" y="325" fill="#738fa2" font-size="9">REAL GITHUB ACTIVITY · AUTO-REFRESHED</text>
 <text x="758" y="309" fill="#91aabb" font-size="10">Less</text>
 ''')
     for i,col in enumerate(COLORS):
