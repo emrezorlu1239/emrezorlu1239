@@ -17,12 +17,6 @@
   <a href="https://huggingface.co/Zorlu5454"><img src="./assets/huggingface.svg" alt="Hugging Face" height="28" /></a>
 </p>
 
-<!-- latest-project:start -->
-<h3 align="center">Currently sailing in ⚓</h3>
-<p align="center"><a href="https://github.com/emrezorlu1239/mindful-support"><strong>mindful-support</strong></a><br />
-<sub>Latest public commit · <a href="https://github.com/emrezorlu1239/mindful-support/commit/c85cf5494a562f2d345875c3329004e06f68a691">c85cf54</a> · 2026-09-14</sub></p>
-<!-- latest-project:end -->
-
 <p align="center">
   <img src="./assets/contribution-sea.svg" width="100%" alt="Contribution Sea — a pirate ship explores islands formed by my real GitHub contributions. Automatically refreshed." />
 </p>
