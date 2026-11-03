@@ -18,5 +18,11 @@
 </p>
 
 <p align="center">
+  <img src="./assets/wanted-poster.svg" width="41%" alt="Wanted poster for Emre Zorlu, The Data Navigator. Bounty grows with every contribution. Known abilities: Python, PyTorch, Transformers, FastAPI, PostgreSQL, React, React Native, TypeScript, C++, C#." />
+  &nbsp;
+  <img src="./assets/captains-log.svg" width="55%" alt="Captain's log: current projects and a manifest of languages across my public repositories. Automatically refreshed." />
+</p>
+
+<p align="center">
   <img src="./assets/contribution-sea.svg" width="100%" alt="Contribution Sea — a pirate ship explores islands formed by my real GitHub contributions. Automatically refreshed." />
 </p>

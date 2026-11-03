@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/contribution_sea.py
+      - scripts/bounty_board.py
       - .github/workflows/contribution-sea.yml
 
 permissions:
@@ -27,13 +28,18 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 scripts/contribution_sea.py
+      - name: Update wanted poster and captain's log
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/bounty_board.py
       - name: Publish changed artwork
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-sea.svg
+          git add assets/contribution-sea.svg assets/wanted-poster.svg assets/captains-log.svg
           if git diff --cached --quiet; then
-            echo "Contribution sea is already current."
+            echo "Profile artwork is already current."
             exit 0
           fi
           git commit -m "Refresh profile activity"
