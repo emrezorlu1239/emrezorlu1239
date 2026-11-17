@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="680" viewBox="0 0 420 680" role="img" aria-labelledby="t d">
 <title id="t">Wanted: Emre Zorlu, The AI Engineer</title>
-<desc id="d">Wanted poster. Bounty 469,000 doubloons = 1,000 x the sum over 43 public repositories of commits x (1 + stars); 236 commits, 41 stars. Biggest haul: mindful-support · 11% of the bounty. Known abilities: Python, PyTorch, Transformers, FastAPI, PostgreSQL, React, React Native, TypeScript, C++, C#.</desc>
+<desc id="d">Wanted poster. Bounty 470,000 doubloons = 1,000 x the sum over 44 public repositories of commits x (1 + stars); 237 commits, 41 stars. Biggest haul: mindful-support · 11% of the bounty. Known abilities: Python, PyTorch, Transformers, FastAPI, PostgreSQL, React, React Native, TypeScript, C++, C#.</desc>
 <defs>
  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4e3ba"/><stop offset="1" stop-color="#e1c38b"/></linearGradient>
  <radialGradient id="burn" cx=".5" cy=".5" r=".72"><stop offset=".62" stop-color="#7a4b22" stop-opacity="0"/><stop offset="1" stop-color="#6b3d17" stop-opacity=".55"/></radialGradient>
@@ -12,7 +12,7 @@
  <radialGradient id="lantern" cx=".5" cy="0" r=".9"><stop offset="0" stop-color="#f2d28c" stop-opacity=".22"/><stop offset="1" stop-color="#f2d28c" stop-opacity="0"/></radialGradient>
  <clipPath id="frame"><rect x="76" y="124" width="268" height="256"/></clipPath>
  <linearGradient id="gleam" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff6d8" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
- <clipPath id="bountyclip"><text x="210" y="494" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700">469,000</text></clipPath>
+ <clipPath id="bountyclip"><text x="210" y="494" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700">470,000</text></clipPath>
 </defs>
 <rect width="420" height="680" rx="18" fill="#0f1b2b"/>
 <rect width="420" height="680" rx="18" fill="url(#lantern)"/>
@@ -32,7 +32,7 @@
  <text x="210" y="424" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" letter-spacing="3" fill="#3b2416">EMRE ZORLU</text>
  <text x="210" y="447" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic" fill="#5c3b22">&quot;The AI Engineer&quot;</text>
  <g transform="translate(114 482)"><circle r="11" fill="#d9a441" stroke="#7a5310" stroke-width="2"/><circle r="6" fill="none" stroke="#7a5310" stroke-width="1.2"/></g>
- <text x="210" y="494" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" fill="#3b2416">469,000</text>
+ <text x="210" y="494" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" fill="#3b2416">470,000</text>
  <g clip-path="url(#bountyclip)"><rect x="0" y="462" width="60" height="40" fill="url(#gleam)" transform="skewX(-20)"><animate attributeName="x" values="0;0;600" keyTimes="0;.7;1" dur="5s" repeatCount="indefinite"/></rect></g>
  <text x="210" y="514" text-anchor="middle" font-family="'Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" fill="#5c3b22">B = 1,000 · Σ<tspan font-size="7.5" dy="2">repos</tspan><tspan dy="-2"> commits × (1 + ★)</tspan></text>
  <text x="210" y="530" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="10" font-style="italic" fill="#6b4a2c">Biggest haul: mindful-support · 11% of the bounty</text>
@@ -48,7 +48,7 @@
  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.740;1" dur="1.54s" fill="freeze"/><rect x="176.0" y="593" width="68" height="20" rx="4" fill="#3b2416" fill-opacity=".1" stroke="#3b2416" stroke-opacity=".45"/><text x="210.0" y="606.6" text-anchor="middle" font-family="'Segoe UI','DejaVu Sans',sans-serif" font-size="8.8" font-weight="600" fill="#3b2416">TypeScript</text></g>
  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.759;1" dur="1.66s" fill="freeze"/><rect x="248.0" y="593" width="68" height="20" rx="4" fill="#3b2416" fill-opacity=".1" stroke="#3b2416" stroke-opacity=".45"/><text x="282.0" y="606.6" text-anchor="middle" font-family="'Segoe UI','DejaVu Sans',sans-serif" font-size="10" font-weight="600" fill="#3b2416">C++</text></g>
  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.775;1" dur="1.78s" fill="freeze"/><rect x="320.0" y="593" width="68" height="20" rx="4" fill="#3b2416" fill-opacity=".1" stroke="#3b2416" stroke-opacity=".45"/><text x="354.0" y="606.6" text-anchor="middle" font-family="'Segoe UI','DejaVu Sans',sans-serif" font-size="10" font-weight="600" fill="#3b2416">C#</text></g>
- <text x="210" y="632" text-anchor="middle" font-family="'Segoe UI','DejaVu Sans',sans-serif" font-size="9.5" fill="#5c3b22">268 contributions · 43 voyages · favourite weapon: Jupyter Notebook</text>
+ <text x="210" y="632" text-anchor="middle" font-family="'Segoe UI','DejaVu Sans',sans-serif" font-size="9.5" fill="#5c3b22">270 contributions · 44 voyages · favourite weapon: Jupyter Notebook</text>
  <text x="210" y="646" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="9" font-style="italic" fill="#6b4a2c">Wanted for: Shipping models from notebook to production · Last sighted near Sakarya</text>
  <g transform="translate(340 142) rotate(-14)" opacity=".9">
   <animate attributeName="opacity" values="0;0;.9" keyTimes="0;.86;1" dur="1.85s" fill="freeze"/>
